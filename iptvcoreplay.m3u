@@ -8,6 +8,7 @@ https://listaiptv.gratis/site.mp4
 
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Paulo HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo São Paulo HD
 http://iptv.movie:8080/patricia1/patricia1/1466
+
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Paulo HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo São Paulo HD+
 http://iptv.movie:8080/patricia1/patricia1/265
 
