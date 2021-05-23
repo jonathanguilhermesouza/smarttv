@@ -6,11 +6,8 @@ https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Variedades", www.listaiptv.gratis
 https://listaiptv.gratis/site.mp4
 
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Paulo HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Globo", Globo 1
-http://iptv.movie:8080/patricia1/patricia1/1466
-
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Paulo HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Globo", Globo 2
-http://iptv.movie:8080/patricia1/patricia1/265
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV ABERTA",GLOBO SP 
+http://95.211.149.215:8081/look/sptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Jornal (PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
