@@ -6,6 +6,9 @@ https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Variedades", www.listaiptv.gratis
 https://listaiptv.gratis/site.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo SP
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/115.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Jornal (PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 
