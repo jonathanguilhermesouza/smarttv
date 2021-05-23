@@ -9,7 +9,7 @@ https://listaiptv.gratis/site.mp4
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Paulo HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Globo", Globo 1
 http://iptv.movie:8080/patricia1/patricia1/1466
 
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Paulo HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Globo", Globo 1
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Paulo HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Globo", Globo 2
 http://iptv.movie:8080/patricia1/patricia1/265
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Jornal (PE)
